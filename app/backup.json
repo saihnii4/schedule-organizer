@@ -1,0 +1,133 @@
+{
+    className: ["Chemistry", "Хими"],
+    code: null,
+    teacher: ["J. Batkhishig", "Ж. Батхишиг"],
+  },
+  {
+    className: ["Chemistry", "Хими"],
+    code: '0620',
+    teacher: ["B. Batchimeg", "Б. Батчимэг"],
+  },
+  {
+    className: ["Physics", "Физик"],
+    code: '0625',
+    teacher: ['E. Gantuya', 'Э. Гантуяа']
+  },
+  {
+    className: ["Physics", "Физик"],
+    code: null,
+    teacher: ['E. Gantuya', 'Э. Гантуяа']
+  },
+  {
+    className: ["Physics", "Физик"],
+    code: null,
+    teacher: ['U. Munkh-Ochir', 'У. Мөнх-Очир']
+  },
+  {
+    className: ["Biology", "Биологи"],
+    code: null,
+    teacher: ["L. Chuluunnyam", "Л. Чулуунням"]
+  },
+  {
+    className: ["Biology", "Биологи"],
+    code: '0610',
+    teacher: ["B. Ulzii-Orshikh", "Б. Өлзий-Орших"]
+  },
+  {
+    className: ["Biology", "Биологи"],
+    code: null,
+    teacher: ["B. Ulzii-Orshikh", "Б. Өлзий-Орших"]
+  }
+  {
+    classname: ["chinese", "хятад хэл"],
+    code: "0547",
+    teacher: ["a. nomin-erdene", "а. номин-эрдэнэ"],
+  },
+  {
+    classname: "art & design",
+    code: "0400",
+    teacher: ["g. galmandakh", "г. галмандах"],
+  },
+  {
+    classname: "design & technology",
+    code: "0445",
+    teacher: ["s. tsolmon", "с. цолмон"],
+  },
+  {
+    classname: ["physical education", "биеийн тамир"],
+    code: null,
+    teacher: ["i.denzengavaa", "и. дэнзэнгаваа"],
+  },
+  {
+    classname: ["business studies", "бизнес судлал"],
+    code: "0450",
+    teacher: ["e. enkhmend", "э. энхмэнд"],
+  },
+  {
+    classname: ["music", "хөгжим"],
+    code: "0410",
+    teacher: ["e.tuguldurbayan", "э. төгөлдөрбаян"],
+  },
+  {
+    classname: [
+      "information and communication technology",
+      "мэдээллийн технологи",
+    ],
+    code: "0417",
+    teacher: ["b. munkh-orgil", "б. мөнх-оргил"],
+  },
+  {{
+    classname: ["Mongolian Language", "Монгол Хэл"],
+    code: null,
+    teacher: ["G. Oyun", "Г. Оюун"],
+  },
+  {
+    classname: ["Mongolian Language", "Монгол Хэл"],
+    code: null,
+    teacher: ["B. Nyamsuren", "Б. Нямсүрэн"],
+  },
+  {
+    classname: ["History & Social Sciences", "Түүх, Нийгэм"],
+    code: null,
+    teacher: ["B. Bolortuya", "Б. Болортуяа"],
+  },
+  {
+    classname: ["History & Social Sciences", "Түүх, Нийгэм"],
+    code: null,
+    teacher: ["A. Dolgorsuren", "А. Долгорсүрэн"],
+  },
+  {
+    classname: ["History & Social Sciences", "Түүх, Нийгэм"],
+    code: null,
+    teacher: ["U. Dulmaa", "У. Дулмаа"],
+  },
+  {
+    className: ["Geography", "Газарзүй"],
+    code: null,
+    teacher: ["D. Lkhagvasuren", "Д. Лхавгасүрэн"],
+  },
+  {
+    className: ["English", "Англи Хэл"],
+    code: null,
+    teacher: ["B. Bayartsaikhan", "Б. Баяртсайхан"],
+  },
+  {
+    className: ["English", "Англи Хэл"],
+    teacher: ["D. Amarbayasgalan", "Д. Амарбаяасгалан"],
+    code: "0500",
+  },
+  {
+    className: ["English", "Англи Хэл"],
+    code: null,
+    teacher: ["B. Bayartsaikhan", "Б. Баяртсайхан"],
+  },
+  {
+    className: ["English", "Англи Хэл"],
+    code: null,
+    teacher: ["D. Enkh-Otgon", "Д. Энх-Отгон"],
+  },
+  {
+    className: ["English", "Англи Хэл"],
+    code: null,
+    teacher: ["B. Usukhbayar", "Б. Өсөхбаяр"],
+  },}
