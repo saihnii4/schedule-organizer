@@ -59,5 +59,7 @@ for interval, term in zip(intervals, terms):
         week_schedule[term].append({"subject": subject,
                                     "teacher": teacher, "schedule": schedule_compendium[i][start:end]})
 
+    week_schedule["subjects"] = subjects
+
 with open("./tmp/processed.json", "w") as final:
     json.dump(week_schedule, final)
