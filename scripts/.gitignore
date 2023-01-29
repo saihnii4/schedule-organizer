@@ -3,3 +3,5 @@ env
 
 *.pdf
 data.json
+_dump*
+testing*
