@@ -26,7 +26,6 @@ for i, someting in enumerate(init_page[3:]):
 
     subjects.append((teacher, " ".join(subject), i))
 
-
 schedule_compendium = [[]]
 
 for page in data:
@@ -47,6 +46,15 @@ intervals = [*zip(day_markers, day_markers[1:]),
 week_schedule = {}
 
 terms = ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY"]
+
+period_schedule = []
+_s, _e = intervals[0]
+page = [*map(lambda kv: [*kv.values()], data[0])][1:]
+a = page[1][_s:_e]
+
+# TODO: do some schedule stuff
+for e in a:
+    pass
 
 for interval, term in zip(intervals, terms):
     start, end = interval
