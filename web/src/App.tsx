@@ -15,7 +15,13 @@ const App = () => {
         <ScheduleSlot
           name="AS/A Level Mathematics"
           room={42}
-          interval={["22:00", "24:00"]}
+          interval={["17:00", "18:00"]}
+          teacher="Mrs. Doe"
+        />
+        <ScheduleSlot
+          name="AS/A Level Mathematics"
+          room={42}
+          interval={["20:00", "19:80"]}
           teacher="Mrs. Doe"
         />
       </div>
